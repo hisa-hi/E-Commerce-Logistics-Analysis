@@ -42,7 +42,7 @@ ECビジネスにおいて、配送の遅れは避けられないリスクです
 
 6. 使用ツール / ライブラリ
 Python 3.11
-
 Pandas / Matplotlib / Seaborn
-
 Jupyter Lab
+
+データ出典：Kaggle - Brazilian E-Commerce Public Dataset
